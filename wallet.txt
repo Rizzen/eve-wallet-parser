@@ -1,0 +1,100 @@
+2023.10.24 20:18	14.560	Spike M	198 ISK	2.879.968 ISK	Pomoya	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 20:18	6.000	Javelin M	213 ISK	1.278.000 ISK	Pomoya	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 20:08	2	X-Large Ancillary Shield Booster	6.400.000 ISK	12.800.000 ISK	Aivanen Kion	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 20:06	5.000	Caldari Navy Nova Rocket	797 ISK	3.984.500 ISK	Kuatto	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 19:58	1.642	Republic Fleet Phased Plasma S	700 ISK	1.149.400 ISK	Kuatto	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 19:56	500	Republic Fleet Phased Plasma S	700 ISK	350.000 ISK	Gengar 6x31IV's	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 19:50	10.000	Republic Fleet EMP M	1.497 ISK	14.970.000 ISK	Nusson	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 19:36	34	Scorch L	477.600 ISK	16.238.400 ISK	Synodica	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 19:33	10.000	Scourge Rage Rocket	120 ISK	1.197.000 ISK	Psycho Inkunen	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 19:31	7.087	Scourge Rage Rocket	120 ISK	848.314 ISK	Psycho Inkunen	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 19:21	135	Caldari Navy Scourge Rocket	796 ISK	107.460 ISK	Viking Egill	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 19:17	1	Caldari Navy Hookbill	12.850.000 ISK	12.850.000 ISK	Psycho Inkunen	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 19:11	1	Caldari Navy Large Shield Extender	31.410.000 ISK	31.410.000 ISK	Lady Shevan	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 18:30	1.640	Republic Fleet Phased Plasma S	700 ISK	1.148.000 ISK	Callisidrin	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 18:27	2	Medium Auxiliary Nano Pump I	2.690.000 ISK	5.380.000 ISK	Soii Fon	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 18:27	2	Medium Auxiliary Nano Pump I	2.690.000 ISK	5.380.000 ISK	LordHarrow	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 18:24	1.500	Scourge Rage Rocket	120 ISK	179.550 ISK	Sovda	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 18:18	441	Scourge Rage Torpedo	2.338 ISK	1.031.058 ISK	Mr OpticTroller	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 18:18	1	Small Energy Nosferatu II	2.615.000 ISK	2.615.000 ISK	MoonRider2	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 17:48	2	Entropic Radiation Sink II	4.435.000 ISK	8.870.000 ISK	LotrLudwik01	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 17:46	2.000	Republic Fleet Phased Plasma S	700 ISK	1.400.000 ISK	Gokahn Gengod	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 17:41	1	Medium Higgs Anchor I	938.000 ISK	938.000 ISK	Mirjana Duh	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 17:29	2	Small Energy Nosferatu II	2.615.000 ISK	5.230.000 ISK	Maeve Morgana	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 17:17	1	Small Energy Nosferatu II	2.615.000 ISK	2.615.000 ISK	Goron the Wise	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 17:15	1	Medium Higgs Anchor I	938.000 ISK	938.000 ISK	BiGsnorlax	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 17:15	2.000	Republic Fleet Phased Plasma S	700 ISK	1.400.000 ISK	Jean Katelo	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 17:07	2	Caldari Navy Large Shield Extender	31.410.000 ISK	62.820.000 ISK	ServantDe Draxx	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 16:50	2	Medium Auxiliary Nano Pump I	2.690.000 ISK	5.380.000 ISK	Quark Curneth	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 16:46	1	Standard Exile Booster	2.455.000 ISK	2.455.000 ISK	Jami Davisono	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 16:46	2	Medium Auxiliary Nano Pump I	2.690.000 ISK	5.380.000 ISK	Jami Davisono	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 16:45	900	Caldari Navy Inferno Heavy Missile	1.565 ISK	1.408.500 ISK	Zadari	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 16:41	2	Medium Auxiliary Nano Pump I	2.690.000 ISK	5.380.000 ISK	HamNEET	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 16:26	26	Navy Cap Booster 150	64.850 ISK	1.686.100 ISK	REEPER Audeles	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 16:15	1	Medium Auxiliary Nano Pump I	2.690.000 ISK	2.690.000 ISK	AVOCb HEBOCb	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 16:07	1	Entropic Radiation Sink II	4.435.000 ISK	4.435.000 ISK	AVOCb HEBOCb	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 16:07	1	Entropic Radiation Sink II	4.435.000 ISK	4.435.000 ISK	AVOCb HEBOCb	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 15:56	1	Caldari Navy Large Shield Extender	31.410.000 ISK	31.410.000 ISK	Andris Pirx	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 15:18	1	Medium Auxiliary Nano Pump I	2.700.000 ISK	2.700.000 ISK	Lijousse	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 15:17	1	Medium Auxiliary Nano Pump I	2.690.000 ISK	2.690.000 ISK	Aeretic Hel	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 15:11	42.500	Republic Fleet EMP M	733 ISK	31.131.250 ISK	Espada420	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 15:00	1	Medium Auxiliary Nano Pump I	2.690.000 ISK	2.690.000 ISK	Sophia Petrova	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 14:57	1	Medium Capacitor Control Circuit II	9.799.000 ISK	9.799.000 ISK	abalys	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 14:57	1	Medium Auxiliary Nano Pump I	2.690.000 ISK	2.690.000 ISK	abalys	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 14:30	1	Medium Capacitor Control Circuit II	9.799.000 ISK	9.799.000 ISK	Borozich	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 14:29	1	Medium Capacitor Control Circuit II	9.799.000 ISK	9.799.000 ISK	Borozich	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 14:26	500	Republic Fleet Phased Plasma S	700 ISK	350.000 ISK	Andrei Uta	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 14:26	500	Republic Fleet Phased Plasma S	700 ISK	350.000 ISK	Andrei Uta	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 13:21	2.050	Caldari Navy Nova Rocket	797 ISK	1.633.645 ISK	Eli Alland	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 13:21	700	Caldari Navy Scourge Rocket	796 ISK	557.200 ISK	Eli Alland	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 13:07	2.500	Republic Fleet EMP M	733 ISK	1.831.250 ISK	zara zurell	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 12:26	80	Navy Cap Booster 200	65.530 ISK	5.242.400 ISK	Michaela Moan	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 11:34	5.000	Republic Fleet EMP M	733 ISK	3.662.500 ISK	Espada420	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 09:43	12.739	Caldari Navy Inferno Heavy Missile	1.570 ISK	20.000.230 ISK	Aulma Kusoni	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 09:43	4	1600mm Steel Plates II	5.447.000 ISK	21.788.000 ISK	Aulma Kusoni	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 08:47	10.000	Caldari Navy Inferno Heavy Missile	1.560 ISK	15.600.000 ISK	Ssvelii Rus	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 08:40	1	Caldari Navy Hookbill	12.850.000 ISK	12.850.000 ISK	Monen Nuon Oramara	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 07:36	9.600	Republic Fleet Phased Plasma S	700 ISK	6.720.000 ISK	Sadiko Armer	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 06:34	3	Navy Cap Booster 150	64.910 ISK	194.730 ISK	Terdus Fergusus Maximus	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 06:03	99.999	Inferno Javelin Heavy Assault Missile	100 ISK	9.998.900 ISK	Vert en	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 04:36	318	Caldari Navy Mjolnir Heavy Assault Missile	1.595 ISK	507.210 ISK	Celia Anilam	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 04:00	3.000	Caldari Navy Scourge Heavy Assault Missile	1.583 ISK	4.749.000 ISK	Trinlas Strongtree	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 02:36	2	Medium Energy Neutralizer II	3.542.000 ISK	7.084.000 ISK	Unholy Valor	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 02:08	800	Caldari Navy Inferno Heavy Missile	1.560 ISK	1.248.000 ISK	Zadari	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 01:22	800	Caldari Navy Inferno Heavy Missile	1.560 ISK	1.248.000 ISK	Zadari	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 01:14	1	800mm Steel Plates II	2.730.000 ISK	2.730.000 ISK	Maroone Watters	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 01:14	8	Navy Cap Booster 200	65.530 ISK	524.240 ISK	wingman karn	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 00:56	8	Navy Cap Booster 200	65.530 ISK	524.240 ISK	wingman karn	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 00:48	20	Navy Cap Booster 200	85.420 ISK	1.708.400 ISK	Vakko Aurelios	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.24 00:38	1.000	Caldari Navy Scourge Heavy Assault Missile	1.583 ISK	1.583.000 ISK	Oen Fordani	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 23:57	720	Republic Fleet Phased Plasma S	700 ISK	504.000 ISK	Jay Blunt	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 23:45	2	Medium Auxiliary Nano Pump I	2.978.000 ISK	5.956.000 ISK	Salty solomen	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 23:44	2	Standard Exile Booster	2.458.000 ISK	4.916.000 ISK	RikkShaw Alar	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 23:35	1.000	Scourge Rage Rocket	120 ISK	119.900 ISK	Solbaid	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 23:33	3.000	Scourge Rage Rocket	120 ISK	359.700 ISK	Solbaid	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 23:04	1.000	Null M	235 ISK	235.000 ISK	Cory Severasse	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 22:53	2	Medium Energy Neutralizer II	3.542.000 ISK	7.084.000 ISK	Galaxier	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 22:52	1	Heavy Capacitor Booster II	3.460.000 ISK	3.460.000 ISK	Galaxier	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 22:52	1	Medium Energy Neutralizer II	3.542.000 ISK	3.542.000 ISK	Galaxier	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 21:39	8.000	Scourge Rage Rocket	120 ISK	959.200 ISK	Icyruin Alars	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 21:32	2	Medium Higgs Anchor I	938.000 ISK	1.876.000 ISK	KRYSTALL	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 21:29	1	Caldari Navy Inferno Heavy Missile	1.560 ISK	1.560 ISK	1yammm	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 21:14	1	Medium Auxiliary Nano Pump I	2.977.000 ISK	2.977.000 ISK	Andy Ambrosio	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 21:08	6.545	Null M	235 ISK	1.538.075 ISK	Bjorn Fronsdadt	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 21:08	1.000	Null M	235 ISK	235.000 ISK	Solomon Miromme	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 20:48	1	Medium Auxiliary Nano Pump I	2.977.000 ISK	2.977.000 ISK	Psycho Inkunen	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 20:36	2	Standard Exile Booster	2.457.000 ISK	4.914.000 ISK	MrTwoBricks	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 20:32	1	Small Thermal Shield Reinforcer I	1.400.000 ISK	1.400.000 ISK	Lord Ladrian	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 20:27	52	Navy Cap Booster 200	65.530 ISK	3.407.560 ISK	Dark Drifter	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 20:27	300	Caldari Navy Scourge Rocket	796 ISK	238.800 ISK	Katanamari Mori	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 20:27	300	Caldari Navy Nova Rocket	797 ISK	239.070 ISK	Katanamari Mori	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 20:27	1	Republic Fleet Medium Shield Extender	13.270.000 ISK	13.270.000 ISK	Katanamari Mori	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 20:27	1	Nanofiber Internal Structure II	414.000 ISK	414.000 ISK	Katanamari Mori	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 20:27	280	Republic Fleet Phased Plasma S	700 ISK	196.000 ISK	Katanamari Mori	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 20:27	1.200	Scourge Rage Rocket	120 ISK	143.880 ISK	Katanamari Mori	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 20:27	1	Nanofiber Internal Structure II	414.000 ISK	414.000 ISK	Maithe Desiree	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 20:24	2	Gas Cloud Scoop I	5.260.000 ISK	10.520.000 ISK	LT Sanya	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 20:23	11	Navy Cap Booster 150	64.910 ISK	714.010 ISK	Free86man Wulfgard	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 20:22	1	Medium Auxiliary Nano Pump I	2.977.000 ISK	2.977.000 ISK	Aubonard Pacht-Shi	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 20:16	1	Small Thermal Shield Reinforcer I	1.400.000 ISK	1.400.000 ISK	Berserk Eightyone	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
+2023.10.23 20:11	1	Small Thermal Shield Reinforcer I	1.400.000 ISK	1.400.000 ISK	madefortradeII	Dodixie IX - Moon 20 - Federation Navy Assembly Plant
